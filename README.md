@@ -1,3 +1,5 @@
+**NB**: this is a fork of [fleeteng/react-native-push-notification](https://github.com/fleeteng/react-native-push-notification) that, in turn, is fork of [react-native-push-notification](https://github.com/zo0r/react-native-push-notification) with ability to put optional "showInForeground" parameter.
+
 # React Native Push Notifications
 
 [![npm version](https://badge.fury.io/js/react-native-push-notification.svg?update=9)](http://badge.fury.io/js/react-native-push-notification)
